@@ -11,6 +11,7 @@ export default function Home() {
 
         <div className="bg-gray-100">
             <Todos />
+            <h1 className=' '>salam</h1>
         </div>
 
 
